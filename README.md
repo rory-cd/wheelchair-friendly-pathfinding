@@ -2,6 +2,8 @@
 
 A graph-based pathfinding system that finds optimal routes for wheelchair users navigating a real-world environment. Built for SIT215 Computational Intelligence at Deakin University.
 
+<img width="1200" height="689" alt="GUI Example Screenshot" src="https://github.com/user-attachments/assets/7a665167-c0c8-49a8-8af8-3ba2301aff04" />
+
 ## Overview
 
 Standard navigation apps optimise for distance or travel time — neither of which reflects the effort required to navigate in a wheelchair. This project finds the least-effort path by accounting for:
